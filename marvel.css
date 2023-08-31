@@ -1,0 +1,49 @@
+body {
+  background-color: #152aa4;
+  background-repeat: repeat-x;
+  background-position: center left;
+  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.card-header {
+  color: #fff;
+  background-color: #0dc6d7;
+  text-align: center;
+  padding: 10px;
+}
+
+.card-body {
+  color: #000;
+  background-color: #00eaff;
+  padding: 20px;
+}
+
+.social-icons {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.social-icons a {
+  color: #333;
+  margin: 0 5px;
+  font-size: 1.2rem;
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
+
+p {
+  color: #000;
+}
+
+li {
+  color: #000;
+}
